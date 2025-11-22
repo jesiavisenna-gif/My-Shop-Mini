@@ -105,7 +105,7 @@ Halaman pembuka aplikasi:
 Halaman login admin:
 
 * Input nickname dan password
-* Validasi `admin/admin`
+* Validasi admin/admin
 * Jika benar → masuk ke HomeScreen sebagai Moderator
 * Jika salah → menampilkan alert
 
